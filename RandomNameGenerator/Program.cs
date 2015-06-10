@@ -50,15 +50,19 @@ namespace RandomNameGenerator
             Console.WriteLine("How many?");
             int num = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine();
+
             string cont = "y";
             while (cont != "n")
             {
-                Console.WriteLine();
                 Generate(size, num);
                 Console.WriteLine();
 
                 Console.WriteLine("Again?");
                 cont = Console.ReadLine();
+
+                int x;
+                if (Int32.TryParse(cont, out x)) size = x;
             }
         }
 

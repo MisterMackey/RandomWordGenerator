@@ -4,3 +4,9 @@
 \\stor01.bk.prodrive.nl\userdata$\jesblo\my documents\visual studio 2013\Projects\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.csprojResolveAssemblyReference.cache
 \\stor01.bk.prodrive.nl\userdata$\jesblo\my documents\visual studio 2013\Projects\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.exe
 \\stor01.bk.prodrive.nl\userdata$\jesblo\my documents\visual studio 2013\Projects\RandomNameGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.pdb
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.exe.config
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.exe
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.pdb
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.exe
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\bin\Debug\RandomNameGenerator.pdb
+D:\GitHub\RandomWordGenerator\RandomNameGenerator\obj\Debug\RandomNameGenerator.csprojResolveAssemblyReference.cache
